@@ -1,0 +1,10 @@
+.nav {
+  background-color: #3c3c3c;
+  padding: 5px 40px;
+}
+
+@media (max-width: 830px) {
+  .nav {
+    padding: 5px 30px;
+  }
+}
